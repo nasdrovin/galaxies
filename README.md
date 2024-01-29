@@ -1,5 +1,5 @@
-## Projeto Galaxies
+## Galaxies
 
-### Projeto criado através da plataforma Rocketseat! 
+### Project created by Rocketseat! 
 
 <img src="./assets/galaxies.png" alt="Projeto galaxies">
